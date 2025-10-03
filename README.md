@@ -28,5 +28,4 @@ cd Event-Booking-App
 - React
 - Typescript
 - Tailwind CSS
-- PostCSS
 - Framer Motion
