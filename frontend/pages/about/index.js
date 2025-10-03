@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function AboutPage() {
   const carouselImages = [
     "/images/about1.jpg",
-    "/images/about2.jpg",
+    "/images/about2.jpeg",
     "/images/about3.jpg",
   ];
 

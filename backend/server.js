@@ -20,7 +20,6 @@ app.get('/api/events', (req, res) => {
 
 app.post('/api/book', (req, res) => {
   const booking = req.body;
-  // In a real app, save to DB. For now just echo:
   console.log('New booking:', booking);
   res.status(201).json({ message: 'Booking confirmed!', booking });
 });

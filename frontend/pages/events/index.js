@@ -123,13 +123,9 @@ export default function EventsPage() {
 
       {/* Hero Video */}
       <section className="relative h-screen w-full overflow-hidden">
-        <video
-          autoPlay
-          loop
-          muted
-          className="w-full h-full object-cover"
-          src="/videos/event-hero.mp4"
-        />
+        <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('/images/hero-event.jpg')" }} />
+
+
         <div className="absolute inset-0 bg-black/40 flex flex-col items-center justify-center px-6 text-center">
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
             EventPulse

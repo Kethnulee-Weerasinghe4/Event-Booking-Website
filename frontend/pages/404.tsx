@@ -1,4 +1,3 @@
-// frontend/pages/404.tsx
 export default function NotFound() {
   return (
     <div style={{ padding: 40 }}>
