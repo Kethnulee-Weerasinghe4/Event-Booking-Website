@@ -30,13 +30,13 @@ npm run dev
    
 ## Technologies
 
-# Frontend
+**Frontend**
 
 - JavaScript
 - React
 - Tailwind CSS
 
-# Backend
+**Backend**
 
 - Node.js
 - NextAuth.js
