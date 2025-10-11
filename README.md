@@ -13,7 +13,7 @@ cd Event-Booking-Website
 ## Installation
 
 ```bash
-cd NEWS-Website
+cd Event-Booking-Website
 npm install
 npm run dev
 ```
