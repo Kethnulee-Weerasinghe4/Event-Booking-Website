@@ -1,6 +1,6 @@
 # Event Booking Website
 
-A full functional event booking website built with React, Tailwind CSS, Node.js, and Express.js. It enables users to explore events and book tickets through a secure, responsive, and visually refined interface powered by NextAuth.js and modern frontend animations.
+A full functional event booking website built with React, Tailwind CSS, Node.js, and Express.js. It enables users to explore events and book tickets through a secure and visually refined interface powered by NextAuth.js and modern frontend animations.
 
 ## View Project
 
