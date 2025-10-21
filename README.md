@@ -12,12 +12,21 @@ cd Event-Booking-Website
 ```
 ## Installation
 
+**Backend setup**
+
 ```bash
-cd Event-Booking-Website
+cd backend
 npm install
-npm run dev
+npm run dev 
 ```
 
+**Frontend setup**
+
+```bash
+cd frontend
+npm install
+npm run dev 
+```
 ![Website Preview](./preview.png)
 
 ## Features
